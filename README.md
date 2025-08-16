@@ -1,10 +1,6 @@
 # DVRE Smart Contracts
 
-A comprehensive smart contract system for decentralized collaborative research projects with active learning capabilities.
-
-## Overview
-
-This repository contains smart contracts for managing research projects, user metadata, assets, and active learning workflows on the blockchain. The system supports both traditional research projects and specialized active learning projects with voting mechanisms.
+Smart contracts for D-VRE and DAL.
 
 ## Architecture
 
